@@ -1,3 +1,5 @@
+#!/bin/python3
+
 #bycripton
 import phonenumbers, argparse  
 from phonenumbers import carrier, geocoder, timezone
