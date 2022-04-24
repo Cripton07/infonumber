@@ -4,7 +4,7 @@
 [+]se nesecita tener instala python 3  
 
 
-  -uso :
+[+]uso :
 
 $ git clone https://github.com/Cripton07/infonumber
 
