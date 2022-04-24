@@ -1,6 +1,6 @@
 #!/bin/python3
 
-#bycripton
+#bycripton | DA CREDITOS SI ROBAS MI CODIGO
 import phonenumbers, argparse  
 from phonenumbers import carrier, geocoder, timezone
 
