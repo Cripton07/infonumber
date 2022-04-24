@@ -11,6 +11,8 @@ $ git clone https://github.com/Cripton07/infonumber
 
 $ cd infonumber 
 
+$ pip install -r requirements.txt
+
 $ python3 infonumber.py -n [numero de telefono]
 
 
